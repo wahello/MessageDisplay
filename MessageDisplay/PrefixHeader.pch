@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  MessageDisplay
+//
+//  Created by Jack on 15/3/25.
+//  Copyright (c) 2015年 Jack. All rights reserved.
+//
+
+
+#import <Availability.h>
+
+
+
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+
+
+#endif

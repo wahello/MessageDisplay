@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>[微笑]</string>
+	<string>[花痴]</string>
+	<string>[惊讶]</string>
+	<string>[流泪]</string>
+	<string>[害羞]</string>
+	<string>[闭嘴]</string>
+	<string>[睡觉]</string>
+	<string>[擦汗]</string>
+	<string>[吐舌]</string>
+	<string>[大笑]</string>
+	<string>[郁闷]</string>
+	<string>[呕吐]</string>
+	<string>[奋斗]</string>
+	<string>[抠鼻]</string>
+	<string>[卖萌]</string>
+	<string>[吵架]</string>
+	<string>[晕]</string>
+	<string>[衰]</string>
+	<string>[财迷]</string>
+	<string>[鄙视]</string>
+	<string>[扮酷]</string>
+	<string>[亲亲]</string>
+	<string>[惊恐]</string>
+	<string>[笑出泪]</string>
+	<string>[疑问]</string>
+</array>
+</plist>
