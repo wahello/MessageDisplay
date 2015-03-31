@@ -4,7 +4,7 @@ platform :ios, '7.0'
 inhibit_all_warnings!
 
 #pod 'MWPhotoBrowser', :git => 'https://github.com/brasbug/MWPhotoBrowser.git'
-#pod 'AFNetworking' , '~>2.5.0'
+pod 'AFNetworking' , '~>2.5.0'
 #pod 'CrittercismSDK', '~> 5.0.7'
 #pod 'UMengAnalytics', '~> 3.4.4'
 pod 'EaseMobSDK' 
